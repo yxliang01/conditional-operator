@@ -1,6 +1,6 @@
 {
   "name": "conditional-operator",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "execute the operator and return the value when the condition is true",
   "main": "dist/index.js",
   "author": "Xiao Liang Yu",
